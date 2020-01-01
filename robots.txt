@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aipuyeithe.unce.us/sitemap.xml
